@@ -20,6 +20,3 @@ A program indítása után a jármű a pálya kiindulási pontján helyezkedik e
 ## Fordítás
 
 A projekt `make` paranccsal fordítható:
-
-```bash
-make

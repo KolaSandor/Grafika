@@ -20,3 +20,6 @@ A program indítása után a jármű a pálya kiindulási pontján helyezkedik e
 ## Fordítás
 
 A projekt `make` paranccsal fordítható:
+
+
+## Assets: https://drive.google.com/drive/u/0/folders/1wNbCAxbi_oEHpLd2J8jh7eI_KNIcM_aW

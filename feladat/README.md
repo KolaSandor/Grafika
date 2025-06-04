@@ -13,3 +13,6 @@ Ez a projekt egy egyszerű, SDL2 és OpenGL alapú autóvezető demo, amelyben e
 - **Objektum‐ és textúradinamikus betöltés**: OBJ/MTL modellek és PNG/JPG textúrák kezelése automatikusan.
 - **Ütközéskezelés**: környezeti objektumokkal (fák, hegyek) való fizikai ütközés megakadályozása.
 
+## Assets helye:
+
+https://drive.google.com/drive/u/0/folders/1wNbCAxbi_oEHpLd2J8jh7eI_KNIcM_aW
